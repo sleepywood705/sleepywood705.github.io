@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.80882765.css",
-    "main.js": "/static/js/main.edd83c78.js",
+    "main.css": "/static/css/main.9a7aa8a8.css",
+    "main.js": "/static/js/main.e142533b.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/KakaoTalk_20240613_211341166_01.jpg": "/static/media/KakaoTalk_20240613_211341166_01.f097b6cc395ee11e6f62.jpg",
-    "static/media/pokedex.png": "/static/media/pokedex.4542aa0046d9f33d6187.png",
     "static/media/Cherolina.ttf": "/static/media/Cherolina.0a92877c75a7948fcdcc.ttf",
-    "static/media/victoria.jpg": "/static/media/victoria.69b3f289437841b033ec.jpg",
     "static/media/banner_playlist.jpg": "/static/media/banner_playlist.ffad8ff3a258b00895cd.jpg",
-    "static/media/addict.JPG": "/static/media/addict.c69eaf955cd6dbd2ee09.JPG",
     "index.html": "/index.html",
-    "main.80882765.css.map": "/static/css/main.80882765.css.map",
-    "main.edd83c78.js.map": "/static/js/main.edd83c78.js.map",
+    "main.9a7aa8a8.css.map": "/static/css/main.9a7aa8a8.css.map",
+    "main.e142533b.js.map": "/static/js/main.e142533b.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80882765.css",
-    "static/js/main.edd83c78.js"
+    "static/css/main.9a7aa8a8.css",
+    "static/js/main.e142533b.js"
   ]
 }
