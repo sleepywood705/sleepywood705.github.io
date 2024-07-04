@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a7aa8a8.css",
-    "main.js": "/static/js/main.e142533b.js",
+    "main.css": "/static/css/main.5214b094.css",
+    "main.js": "/static/js/main.a52b5552.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/KakaoTalk_20240613_211341166_01.jpg": "/static/media/KakaoTalk_20240613_211341166_01.f097b6cc395ee11e6f62.jpg",
-    "static/media/Cherolina.ttf": "/static/media/Cherolina.0a92877c75a7948fcdcc.ttf",
+    "static/media/Saint-Andrews-Queen.ttf": "/static/media/Saint-Andrews-Queen.53fe428684ec1a1dd7af.ttf",
+    "static/media/Memories.ttf": "/static/media/Memories.8e89d719f8f5fdf01e5e.ttf",
     "static/media/banner_playlist.jpg": "/static/media/banner_playlist.ffad8ff3a258b00895cd.jpg",
+    "static/media/DS-DIGI.TTF": "/static/media/DS-DIGI.0ef0e2249326c34137c8.TTF",
     "index.html": "/index.html",
-    "main.9a7aa8a8.css.map": "/static/css/main.9a7aa8a8.css.map",
-    "main.e142533b.js.map": "/static/js/main.e142533b.js.map",
+    "main.5214b094.css.map": "/static/css/main.5214b094.css.map",
+    "main.a52b5552.js.map": "/static/js/main.a52b5552.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a7aa8a8.css",
-    "static/js/main.e142533b.js"
+    "static/css/main.5214b094.css",
+    "static/js/main.a52b5552.js"
   ]
 }
