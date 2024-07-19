@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5214b094.css",
-    "main.js": "/static/js/main.a52b5552.js",
+    "main.css": "/static/css/main.5559c4ab.css",
+    "main.js": "/static/js/main.d1808be5.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/KakaoTalk_20240613_211341166_01.jpg": "/static/media/KakaoTalk_20240613_211341166_01.f097b6cc395ee11e6f62.jpg",
     "static/media/Saint-Andrews-Queen.ttf": "/static/media/Saint-Andrews-Queen.53fe428684ec1a1dd7af.ttf",
@@ -9,12 +9,12 @@
     "static/media/banner_playlist.jpg": "/static/media/banner_playlist.ffad8ff3a258b00895cd.jpg",
     "static/media/DS-DIGI.TTF": "/static/media/DS-DIGI.0ef0e2249326c34137c8.TTF",
     "index.html": "/index.html",
-    "main.5214b094.css.map": "/static/css/main.5214b094.css.map",
-    "main.a52b5552.js.map": "/static/js/main.a52b5552.js.map",
+    "main.5559c4ab.css.map": "/static/css/main.5559c4ab.css.map",
+    "main.d1808be5.js.map": "/static/js/main.d1808be5.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5214b094.css",
-    "static/js/main.a52b5552.js"
+    "static/css/main.5559c4ab.css",
+    "static/js/main.d1808be5.js"
   ]
 }
